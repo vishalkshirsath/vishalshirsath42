@@ -11,6 +11,16 @@ Beyond academics and tech, I have a strong fondness for chess, which I enjoy as 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/vishal_shirsath_42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal_shirsath_42" height="30" width="40" /></a>
