@@ -1,5 +1,5 @@
 ![logo](https://github.com/vishalshirsath42/vishalshirsath42/blob/main/banner.jpg)
-# Sotware Developer!
+# Sotware Developer and Ethical Hacker
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Hello,👋 I'm **_Vishal Shirsath_**, originally from Nashik 🇮🇳. I am currently pursuing a Master of Computer Application degree at Dr. Moonje Institute. My areas of expertise lie in computer Programming and CyberSecurity.
